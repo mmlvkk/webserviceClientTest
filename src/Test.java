@@ -11,6 +11,7 @@ import javax.xml.ws.Service;
 public class Test {
 
 	/**
+	 * kwang
 	 * @param args
 	 * @throws MalformedURLException 
 	 */
